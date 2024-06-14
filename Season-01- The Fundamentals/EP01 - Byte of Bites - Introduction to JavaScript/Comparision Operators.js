@@ -1,7 +1,7 @@
 // Equal to (==)
 let isEqual = 5 == 5; // true
-console.log(isEqual);
 let isEquall = 5 == "5"; // true
+console.log(isEqual);
 console.log(isEquall);
 
 //Is Not equal to (!=)
@@ -10,14 +10,14 @@ console.log(isNotEqaul);
 
 //Strict Equal to (===) (checks both value and type)
 let strictEqual = 5 === 5; //True
-console.log(strictEqual);
 let strictEqual1 = 5 === "5"; //False
+console.log(strictEqual);
 console.log(strictEqual1);
 
 //Strict not equal to (checks both value and type) (!==)
 let strictnotequal = 5 !== 5; //false
-console.log(strictnotequal);
 let strictnotequal1 = 5 !== "5"; // true
+console.log(strictnotequal);
 console.log(strictnotequal1);
 
 //Greater Than(>)
